@@ -16,15 +16,16 @@ A data analysis of the french app market during 2020, the goal is to understand 
   technical_test_table_extract: 
   
   id_order: id of a single purchase
-  year_month: year and month of the purchase
-  order_total_paid: price paid for a app feature
-  product_name: name of the feature
+  
+  year_month: year and month of the purchase,
+  order_total_paid: price paid for a app feature,
+  product_name: name of the feature,
   product_url_img: url link for image's editor of the app
   
   technical_test_external_source_extract:
   
-  title: name of the company
-  editor: editor of the company 
+  title: name of the company,
+  editor: editor of the company,
   icon: url link for the icon's editor of the app
   
  ## Technologies Used
