@@ -1,7 +1,6 @@
 # French App Market during 2020
 
 A data analysis of the french app market during 2020, the goal is to understand the impact of COVID-19 confinement in France
-
 ## General Information
   This project intends to solve two problems:
   
@@ -14,7 +13,7 @@ A data analysis of the french app market during 2020, the goal is to understand 
 ## Data Description
   There are two .csv files to work in this project, they're non-structured and the first objective of the project is to structure them.
   
-  technical_test_table_extract, reduced_table_extract: 
+  technical_test_table_extract: 
   
   id_order: id of a single purchase
   year_month: year and month of the purchase
