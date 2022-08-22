@@ -8,6 +8,7 @@
 * [Data Description](https://github.dev/pedrocarvalholf/fox-intelligence/#data-description)
 * [Libs Used](https://github.dev/pedrocarvalholf/fox-intelligence/#libs-used)
 * [Project Layout](https://github.dev/pedrocarvalholf/fox-intelligence/#project-layout)
+* [Ideas for Improvement](https://github.dev/pedrocarvalholf/fox-intelligence/#ideas-for-improvement)
 * [Contact](https://github.dev/pedrocarvalholf/fox-intelligence/#contact)
 
 ## General Information
@@ -29,7 +30,8 @@
     order_total_paid: price paid for a app feature,
     product_name: name of the feature,
     product_url_img: url link for image's editor of the app
-    technical_test_external_source_extract:
+    
+  `technical_test_external_source_extract:`
     title: name of the company,
     editor: editor of the company,
     icon: url link for the icon's editor of the app
@@ -67,6 +69,10 @@
 3) Month profit per feature of each company
 
 Using the graphics plotted in this part I've made a [presentation](https://github.com/pedrocarvalholf/fox-intelligence/blob/main/App%20Market%20in%20France%20during%202020.pdf) in canva.com, aimed at app editors.
+
+## Ideas for Improvement
+
+After gathering feedback from some friends, I've identified performance issues in my code, this could be later solved with a better understand of built in functions from Python. In the second notebook, there's space for revenue forecasting, using products contribution and periodicity for total revenue. 
 
 ## Contact
 
